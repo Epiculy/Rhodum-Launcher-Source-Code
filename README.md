@@ -1,2 +1,2 @@
 # Rhodum-Launcher-Source-Code
-Source code for the rhodum launcher.
+There is no malware, all the malware roumours were fake.
